@@ -1,5 +1,7 @@
 {
-    "incidents": [
+    "incidents": 
+    "body": {
+    [
         {
             "prioridad": "1",
             "id": "1",
@@ -21,8 +23,9 @@
             "estatus": "Closed",
             "resumen": "Resumen 3"
         }
-    ],
-    "changes": [
+    ]},
+    "changes": "body": {
+        [
         {
             "prioridad": "1",
             "id": "1",
@@ -48,4 +51,5 @@
             "resumen": "Resumen 3B"
         }
     ]
+    }
 }
