@@ -1,0 +1,51 @@
+{
+    "incidents": [
+        {
+            "prioridad": "1",
+            "id": "1",
+            "fechaApertura": "2020-08-25",
+            "estatus": "Working",
+            "resumen": "Resumen 1"
+        },
+        {
+            "prioridad": "1",
+            "id": "2",
+            "fechaApertura": "2020-08-25",
+            "estatus": "Open",
+            "resumen": "Resumen 2"
+        },
+        {
+            "prioridad": "1",
+            "id": "3",
+            "fechaApertura": "2020-08-24",
+            "estatus": "Closed",
+            "resumen": "Resumen 3"
+        }
+    ],
+    "changes": [
+        {
+            "prioridad": "1",
+            "id": "1",
+            "fechaApertura": "2020-08-25",
+            "sitioDispositivo": "A",
+            "estatus": "Working",
+            "resumen": "Resumen 1"
+        },
+        {
+            "prioridad": "3",
+            "id": "2",
+            "fechaApertura": "2020-08-25",
+            "sitioDispositivo": "AB",
+            "estatus": "Pending",
+            "resumen": "Resumen 2B"
+        },
+        {
+            "prioridad": "2",
+            "id": "3",
+            "fechaApertura": "2020-08-20",
+            "sitioDispositivo": "BOC",
+            "estatus": "Done",
+            "resumen": "Resumen 3B"
+        }
+    ]
+}
