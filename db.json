@@ -50,5 +50,28 @@
             "resumen": "Resumen 3B"
         }
     ]
+    },
+    "cleared": {
+        "body": [
+            {
+                "componente": "Cleared1"
+            },
+                        {
+                "componente": "Cleared2"
+            },
+                        {
+                "componente": "Cleared3"
+            },
+                        {
+                "componente": "Cleared4"
+            },
+                        {
+                "componente": "Cleared5"
+            },
+                        {
+                "componente": "Cleared6"
+            }
+        ]
+    
     }
 }
