@@ -1,7 +1,6 @@
 {
-    "incidents": 
-    "body": {
-    [
+    "incidents": {
+    "body": [
         {
             "prioridad": "1",
             "id": "1",
@@ -24,8 +23,8 @@
             "resumen": "Resumen 3"
         }
     ]},
-    "changes": "body": {
-        [
+    "changes": { 
+        "body": [
         {
             "prioridad": "1",
             "id": "1",
